@@ -1,4 +1,4 @@
-# Face Recognition мини проект для Senim.kz
+# Face Recognition мини
 
 - Используемый скрипт взят отсюда: https://github.com/ageitgey/face_recognition/blob/master/examples/facerec_from_video_file.py
 - Используется библиотека [face_recognition](https://github.com/ageitgey/face_recognition)
