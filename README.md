@@ -1,4 +1,4 @@
-# Face Recognition мини
+# Face Recognition мини проект
 
 - Используемый скрипт взят отсюда: https://github.com/ageitgey/face_recognition/blob/master/examples/facerec_from_video_file.py
 - Используется библиотека [face_recognition](https://github.com/ageitgey/face_recognition)
